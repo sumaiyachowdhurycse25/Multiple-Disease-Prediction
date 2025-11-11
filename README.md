@@ -74,7 +74,10 @@ Rest, The Slope of the Peak Exercise ST Segment and Number of Major Vessels .The
 performance of the models have been analyzed to get the best model to detect whether the 
 patient has heart disease or not.</p>
 <br>
-
+<div align="center">
+  <h2>Model Building</h2>
+  <img src="https://github.com/sumaiyachowdhurycse25/BrainTumorDetection/blob/master/Model%20Building.PNG">
+</div>
 </div>
 <div align="center">
   <h2>Skills Required</h2>
