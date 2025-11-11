@@ -15,8 +15,8 @@ the diseases are Stroke, Heart disease, Parkinson, Diabetes, Breast Cancer,
 Thyroid, Chronic Kidney disease and Brain Tumor. 7 machine learning algorithms have been implemented to build models with higher accuracy</p>
   </div>
 <div align="center">
-  <h2>Model Building</h2>
-  <img src="https://github.com/sumaiyachowdhurycse25/BrainTumorDetection/blob/master/Model%20Building.PNG">
+  <h2>Features</h2>
+ <h3>For Diabetes</h3>
 </div>
 <div align="center">
   <h2>Skills Required</h2>
