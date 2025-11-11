@@ -17,6 +17,9 @@ Thyroid, Chronic Kidney disease and Brain Tumor. 7 machine learning algorithms h
 <div align="center">
   <h2>Features</h2>
  <h3>For Diabetes</h3>
+  <p>Different machine learning models have been built based on the parameters - Pregnancies, Glucose level, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes 
+Pedigree Function and Age. The performance of the models have been analyzed to get the 
+best model to detect whether the patient has diabetes or not. </p>
 </div>
 <div align="center">
   <h2>Skills Required</h2>
