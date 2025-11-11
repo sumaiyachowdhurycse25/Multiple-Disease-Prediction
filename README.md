@@ -90,13 +90,13 @@ patient has heart disease or not.</p>
   <p>Seaborn</p>
 </div>
 <div align="center">
-  <h2>How to run the code</h2>
+  <h2>How to run the codes</h2>
   <p>Install Jupyter Notebook</p>
   <p>Install Anaconda Prompt</p>
   <p>Configure Environment in Anaconda Prompt</p>
   <p>Open Anaconda Prompt</p>
   <p>Go to file path</p>
   <p>Open Jupyter Notebook</p>
-  <p>Open code ipynb file</p>
+  <p>Open code ipynb files</p>
   <p>Install Required Python Libraries</p>
-  <p>Run the code</p>
+  <p>Run the codes</p>
