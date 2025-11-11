@@ -8,7 +8,11 @@
 
   <div align="center">
   <h2>Project Description</h2>
-  <p> This project focused on considering type, location of the tumor and grade of the tumor for brain tumor detection. A convolutional neural network model have been implemented on Magnetic Resonance Imaging. The four classifications are Meningioma, Glioma, No Tumor and Pituitary.</p>
+  <p> This project focused on diagnosing different diseases and identifying the 
+risk factors and causes. The aim is to make a cost-friendly system with higher accuracy 
+which considers all the symptoms of the diseases that are important. In this project, 
+the diseases are Stroke, Heart disease, Parkinson, Diabetes, Breast Cancer, 
+Thyroid, Chronic Kidney disease and Brain Tumor. 7 machine learning algorithms have been implemented to build models with higher accuracy</p>
   </div>
 <div align="center">
   <h2>Model Building</h2>
