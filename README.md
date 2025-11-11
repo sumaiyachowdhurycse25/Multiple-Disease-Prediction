@@ -12,7 +12,8 @@
 risk factors and causes. The aim is to build models with higher accuracy 
 which considers all the symptoms of the diseases that are important. In this project, 
 the diseases are Stroke, Heart disease, Parkinson, Diabetes, Breast Cancer, 
-Thyroid, Chronic Kidney disease and Brain Tumor. 7 machine learning algorithms have been implemented to build models with higher accuracy</p>
+Thyroid, Chronic Kidney disease and Brain Tumor. 7 machine learning algorithms (Decision tree, K-Nearest Neighbor, Logistic Regression, 
+Support Vector Machine, Perceptron, ZeroR Classifier and Naïve Bayes) have been implemented to build models with higher accuracy</p>
   </div>
 <div align="center">
   <h2>Features</h2>
