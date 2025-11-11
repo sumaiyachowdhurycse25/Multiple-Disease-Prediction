@@ -76,7 +76,7 @@ patient has heart disease or not.</p>
 <br>
 <div align="center">
   <h2>Model Building</h2>
-  <img src="https://github.com/sumaiyachowdhurycse25/BrainTumorDetection/blob/master/Model%20Building.PNG">
+  <img src="https://github.com/sumaiyachowdhurycse25/Multiple-Disease-Prediction/blob/master/Model%20Building.PNG">
 </div>
 </div>
 <div align="center">
