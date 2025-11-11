@@ -9,7 +9,7 @@
   <div align="center">
   <h2>Project Description</h2>
   <p> This project focused on diagnosing different diseases and identifying the 
-risk factors and causes. The aim is to make a cost-friendly system with higher accuracy 
+risk factors and causes. The aim is to build models with higher accuracy 
 which considers all the symptoms of the diseases that are important. In this project, 
 the diseases are Stroke, Heart disease, Parkinson, Diabetes, Breast Cancer, 
 Thyroid, Chronic Kidney disease and Brain Tumor. 7 machine learning algorithms have been implemented to build models with higher accuracy</p>
