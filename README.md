@@ -20,6 +20,14 @@ Thyroid, Chronic Kidney disease and Brain Tumor. 7 machine learning algorithms h
   <p>Different machine learning models have been built based on the parameters - Pregnancies, Glucose level, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes 
 Pedigree Function and Age. The performance of the models have been analyzed to get the 
 best model to detect whether the patient has diabetes or not. </p>
+  <h3>For Kidney Disease</h3>
+  <p>Different machine learning models have been built based on the 
+parameters - Age, Blood Pressure, Specific Gravity, Albumin, Sugar Red Blood Cells, Pus 
+Cell, Pus Cell Clumps, Bacteria, Blood Glucose Random, Blood Urea, Serum Creatinine, 
+Sodium, Potassium, Hemoglobin, Packed Cell Volume, White Blood Cell Count, Red 
+Blood Cell Count, Hypertension, Diabetes Mellitus, Coronary Artery Disease, Appetite, 
+Pedal Edema and Anemia. The performance of the models have been analyzed to get the 
+best model to detect whether the patient has kidney disease or not.   </p>
 </div>
 <div align="center">
   <h2>Skills Required</h2>
